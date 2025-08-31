@@ -8,3 +8,5 @@ conflict用
 rebase pracrticeで編集
 rebase-conflict用
 >>>>>>> rebase-practice
+
+rebase用
