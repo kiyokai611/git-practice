@@ -10,3 +10,4 @@ rebase-conflict用
 >>>>>>> rebase-practice
 
 rebase用
+ stash練習
