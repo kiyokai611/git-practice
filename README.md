@@ -10,5 +10,5 @@ rebase-conflict用
 >>>>>>> rebase-practice
 
 rebase用
- stash練習(track)
+stash練習(2nd)
 
